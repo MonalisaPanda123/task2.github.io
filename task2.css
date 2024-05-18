@@ -1,0 +1,57 @@
+.first{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.img{
+  
+    float:left;
+}
+.text{
+    float:left;
+}
+
+.second{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.para1{
+    font-size:80px;
+    font-style:italic;
+    text-align:center;
+}
+button{
+    font-size:20px;
+}
+.colourpalate{
+    background-color:rgb(91, 177, 211);
+}
+.para2{
+    font-size:40px;
+    text-align:center; 
+}
+.image3{
+    float:left;
+    width:50%;
+    height:50%;
+    gap:10px;
+}
+.para3, .para4{
+    font-size:30px;
+  width:50%;
+}
+.para5{
+    font-size:40px;
+    text-align:center; 
+}
+.image4{
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly; 
+       
+}
+.image4 img{
+    width:50px;
+    height:50px;
+}
